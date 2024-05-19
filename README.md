@@ -48,10 +48,9 @@ Hello and welcome to my page! 🤗 I'm Shu, an aspiring software engineer with a
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@shuzz/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@shuzz/2" alt="Recent Article 2"> 
 -->
 
-<!--
 ### 📈 My Contributions So Far ...
-![github stats](https://github-readme-stats.vercel.app/api?username=avasyc&show_icons=true)
--->
+![github stats](https://github-readme-stats.vercel.app/api?username=avasy&show_icons=true)
+
 
 
 <!--
