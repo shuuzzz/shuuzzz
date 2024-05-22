@@ -49,7 +49,7 @@ Hello and welcome to my page! 🤗 I'm Shu, an aspiring software engineer with a
 -->
 
 ### 📈 My Contributions So Far ...
-![github stats](https://github-readme-stats.vercel.app/api?username=avasy&show_icons=true)
+![github stats](https://github-readme-stats.vercel.app/api?username=shuuzzz&show_icons=true)
 
 
 
