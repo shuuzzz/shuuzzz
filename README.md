@@ -49,7 +49,7 @@ Hello and welcome to my page! 🤗 I'm Shu, an aspiring software engineer with a
 -->
 
 ### 📈 My Contributions So Far ...
-![github stats](https://github-readme-stats.vercel.app/api?username=shuuzzz&show_icons=true&width=200&height=500)
+![github stats](https://github-readme-stats.vercel.app/api?username=shuuzzz&show_icons=true)
 ![LeetCode Stats](https://leetcode.card.workers.dev/avasy?theme=default&font=baloo&extension=null)
 
 
@@ -71,4 +71,6 @@ Github resources:
 Inspired Profiles: https://x-team.com/blog/stand-out-with-a-github-profile/
 Badges: https://github.com/alexandresanlim/Badges4-README.md-Profile?tab=readme-ov-file
 Medium: [https://medium.com/geekculture/get-posts-from-medium-api-in-2022-using-javascript-2d1e40d0fd25](https://betterprogramming.pub/add-your-recent-published-mediums-article-on-github-readme-9ffaf3ad1606)
+Github API: https://github.com/anuraghazra/github-readme-stats
+LeetCode API: https://github.com/JacobLinCool/LeetCode-Stats-Card?tab=readme-ov-file
 -->
