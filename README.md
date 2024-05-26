@@ -49,8 +49,8 @@ Hello and welcome to my page! 🤗 I'm Shu, an aspiring software engineer with a
 -->
 
 ### 📈 My Contributions So Far ...
-![github stats](https://github-readme-stats.vercel.app/api?username=shuuzzz&show_icons=true)
-
+![github stats](https://github-readme-stats.vercel.app/api?username=shuuzzz&show_icons=true&width=200&height=500)
+![LeetCode Stats](https://leetcode.card.workers.dev/avasy?theme=default&font=baloo&extension=null)
 
 
 <!--
