@@ -2,7 +2,7 @@
 
 <h1 align='center'> 👋 Hi there, I'm Shu 👩‍💻 </h1>
 
-<p align='center'> <strong> Ex Amazon Sales Account Manager 📦 / Budding Software Engineer 💻</strong>
+<p align='center'> <strong> Ex Amazon Sales Account Manager 📦 / </strong>
 
 <p align='center'>
 Hello and welcome to my page! 🤗 I'm Shu, an aspiring software engineer with a passion for finding innovative solutions to complex problems. Over the course of my 8-year career, I've dedicated 4 years to ad operations, 2 years to ad sales, and another 2 years to e-commerce. This journey has allowed me to develop strong analytical skills and gain valuable insights into advertising and supply chain management in order to enhance business and customer experiences through data-driven strategies. I am also deeply interested in understanding algorithms and delving into the realm of open-source software development.
