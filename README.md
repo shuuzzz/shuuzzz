@@ -9,7 +9,7 @@ Hello and welcome to my page! 🤗 I'm Shu, an aspiring software engineer with a
 
 <b>Current Interest:</b> Exploring dating apps' impact on social dynamics ❤️‍🔥
 
-<b>Current Learnings:</b> Spanish in Duolingo 🇪🇸 , Computer Science in C++ 👩‍💻
+<b>Current Learnings:</b> Spanish in Duolingo 🇪🇸 
 
 <b>Current Course:</b> NYU Tandon Bridge Program Winter 2023 🍇
 
